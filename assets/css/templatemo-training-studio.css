@@ -163,7 +163,8 @@ body {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #ed563b;
+  /*color: #ed563b;*/
+  color:#50ed3b
 }
 
 .section-heading img {
@@ -182,7 +183,8 @@ body {
   display: inline-block;
   font-size: 15px;
   padding: 12px 20px;
-  background-color: #ed563b;
+  /*background-color: #ed563b;*/
+  background-color:#50ed3b
   color: #fff;
   text-align: center;
   font-weight: 400;
@@ -225,11 +227,13 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #ed563b!important;
+  /*color: #ed563b!important;*/
+  color: #50ed3b!important;
 }
 
 .background-header .nav li a.active {
-  color: #ed563b!important;
+  /*color: #ed563b!important;*/
+  color: #50ed3b!important;
 }
 
 .header-area {
@@ -266,7 +270,8 @@ header
 
 .header-area .main-nav .logo em {
   font-style: normal;
-  color: #ed563b;
+ /* color: #ed563b;*/
+  color: #50ed3b;
   font-weight: 900;
 }
 
@@ -312,7 +317,8 @@ header
   display: inline-block;
   font-size: 13px;
   padding: 11px 17px;
-  background-color: #ed563b;
+ /* background-color: #ed563b;*/
+  background-color: #50ed3b;
   color: #fff;
   text-align: center;
   font-weight: 400;
